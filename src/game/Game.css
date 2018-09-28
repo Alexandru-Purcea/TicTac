@@ -1,0 +1,32 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: 0;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
+
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  #status{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    background-color: transparent;
+  }
+
+  ol, ul {
+    padding-left: 30px;
+    width: 100px;
+  }
+  
+  li{
+    margin-top: 10px;
+  }
